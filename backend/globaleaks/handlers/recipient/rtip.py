@@ -80,6 +80,7 @@ def db_grant_tip_access(session, tid, user_id, user_cc, itip, rtip, receiver_id)
 
     new_receiver = db_get(session,
                           models.User,
+                          models.User.tid == tid,
                           models.User.id == receiver_id)
 
     if itip.crypto_tip_pub_key and not new_receiver.crypto_pub_key:
