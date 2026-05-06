@@ -55,7 +55,7 @@ Thank you! If you would like to to contribute to the project please check the [C
 
 As a pure community-driven project without major corporate backing, we also welcome [donations](https://github.com/sponsors/globaleaks).
 
-- [Help Us Protect Whistleblowers—Become a GlobaLeaks Donor](https://github.com/sponsors/globaleaks)
+- [Help Us Protect Whistleblowers—Become a GlobaLeaks Donor](https://whistleblowing-software.pages.dev/posts/anonymity-vs-confidentiality-whistleblowing-threat-model/)
 
 A big thank you to everyone who has already [contributed](https://github.com/globaleaks/globaleaks-whistleblowing-software/graphs/contributors) or [donated](https://github.com/sponsors/globaleaks) to the development of GlobaLeaks!
 
